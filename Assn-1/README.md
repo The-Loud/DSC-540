@@ -2,7 +2,7 @@
 GCU Data Science
 
 ## Documents included:
-- PDF of notebook output
+- HTML of notebook output
 - ipynb notebook file
 - Document for technical report
 
