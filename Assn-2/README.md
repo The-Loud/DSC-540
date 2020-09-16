@@ -4,7 +4,7 @@
 This directory contains three files:
  - The python notebook
  - a PDF output of the notebook
- - a docx containing the technical write up of the notebook
+ - a PDF containing the technical write up of the notebook
 
 
 ## HOW TO RUN
