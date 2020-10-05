@@ -1,0 +1,15 @@
+Day,Temperature,Wind,Traffic-Jam,Car-driving
+1,hot,weak,long,no
+2,hot,strong,long,no
+3,hot,weak,long,yes
+4,mild,weak,long,yes
+5,cool,weak,short,yes
+6,cool,strong,short,yes
+7,cool,strong,short,no
+8,mild,weak,long,yes
+9,cool,weak,short,no
+10,mild,weak,short,yes
+11,mild,strong,short,yes
+12,mild,strong,long,yes
+13,hot,weak,short,yes
+14,mild,strong,long,no
